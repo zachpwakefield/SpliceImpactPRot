@@ -1,12 +1,11 @@
 Package: SpliceImpactPRot
 Type: Package
-Title: Identifies enriched domains from differentially included exons
+Title: Ahh
 Version: 0.1.0
-Author: Zachary Wakefield
-Maintainer: Zachary Wakefield <zachpw@bu.edut>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Zach Wakefield
+Maintainer: Zach Wakefield
+Description: A longer description would go here.
+License: AAA
 Encoding: UTF-8
 LazyData: true
-Imports:
+RoxygenNote: 6.0.1
